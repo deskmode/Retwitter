@@ -1,0 +1,6 @@
+{
+  "name": "ReTwitter",
+  "description": "Android-first Material Design 3 social media application powered by Supabase and PostgreSQL, featuring home feed, post creation, direct messaging, real-time notifications, trending hashtags, and user moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
